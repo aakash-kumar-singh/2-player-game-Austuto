@@ -1,3 +1,4 @@
+
 # Programming Assignment : 2-player-game
 
 ## Overview
@@ -61,9 +62,9 @@ Please submit your completed project by:
 3. Ensuring your code runs without errors and produces a functional Tic-Tac-Toe game
 4. Submitting the link to your repository
 5. Add your email-id, name and roll number in the README.md in the below format
-   - Name: <your name>
-   - Email-id: <your email-id>
-   - Roll Number: <your roll number>
+   - Name: Aakash Kumar Singh
+   - Email-id: aakashkumarsingh824301@gmail.com
+   - Roll Number: 12211363
 
 ## Important Notes
 
